@@ -19,3 +19,6 @@ C:\Users\David\Desktop\WinterletPractice\WidgetsApp\obj\Debug\netcoreapp3.0\Widg
 C:\Users\David\Desktop\WinterletPractice\WidgetsApp\obj\Debug\netcoreapp3.0\WidgetsApp.csproj.CopyComplete
 C:\Users\David\Desktop\WinterletPractice\WidgetsApp\obj\Debug\netcoreapp3.0\WidgetsApp.dll
 C:\Users\David\Desktop\WinterletPractice\WidgetsApp\obj\Debug\netcoreapp3.0\WidgetsApp.pdb
+c:\Users\David\Desktop\WinterletPractice\WidgetsApp\bin\Debug\netcoreapp3.0\ClientApp\package-lock.json
+c:\Users\David\Desktop\WinterletPractice\WidgetsApp\bin\Debug\netcoreapp3.0\ClientApp\package.json
+c:\Users\David\Desktop\WinterletPractice\WidgetsApp\bin\Debug\netcoreapp3.0\ClientApp\public\manifest.json
